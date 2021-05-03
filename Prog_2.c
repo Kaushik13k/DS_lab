@@ -1,3 +1,4 @@
+// String match and replace
 #include<stdio.h>
 char str[100],pat[100],rep[100],ans[100];
 int i,j,k,m,c,flag=0;
